@@ -1,0 +1,11 @@
+{
+  "name": "babel-systemjs",
+  "version": "1.0.0",
+  "description": "babel-systemjs demo",
+  "main": "",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "MIT"
+}

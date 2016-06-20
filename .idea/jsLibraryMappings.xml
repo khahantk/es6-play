@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/babel-webpack/src/app.js" libraries="{ECMAScript 6}" />
+    <file url="PROJECT" libraries="{jquery-DefinitelyTyped, systemjs-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>

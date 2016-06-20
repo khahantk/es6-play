@@ -1,0 +1,10 @@
+babel-browserify/bower_components
+babel-browserify/node_modules
+*.log
+babel-browserify/dist/app.bundle.js
+
+babel-systemjs/bower_components
+
+babel-webpack/bower_components
+babel-webpack/node_modules
+babel-webpack/dist/app.bundle.js
